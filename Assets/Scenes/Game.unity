@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2379130}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3c7fcaa6ae88f8e4eb4775334f7e3195, type: 3}
   m_Name: 
@@ -1402,7 +1402,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 267586176}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3c7fcaa6ae88f8e4eb4775334f7e3195, type: 3}
   m_Name: 
@@ -1835,7 +1835,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 323195398}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3c7fcaa6ae88f8e4eb4775334f7e3195, type: 3}
   m_Name: 
@@ -5200,7 +5200,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 959163313}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3c7fcaa6ae88f8e4eb4775334f7e3195, type: 3}
   m_Name: 
@@ -6707,7 +6707,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1252832299}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3c7fcaa6ae88f8e4eb4775334f7e3195, type: 3}
   m_Name: 
@@ -7579,8 +7579,8 @@ GameObject:
   - component: {fileID: 1406154065}
   - component: {fileID: 1406154064}
   - component: {fileID: 1406154063}
-  - component: {fileID: 1406154068}
   - component: {fileID: 1406154067}
+  - component: {fileID: 1406154068}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -7691,11 +7691,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1406154060}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7590851089d42f843922ae1b0015f79a, type: 3}
+  m_Script: {fileID: 11500000, guid: 18af3af867f6b134faac42b08dd9abd5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 1406154067}
-  ForwardForce: 1500
+  ForwardForce: 1000
   SideForce: 1000
 --- !u!1 &1423144558
 GameObject:
@@ -10421,7 +10421,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2089496238}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3c7fcaa6ae88f8e4eb4775334f7e3195, type: 3}
   m_Name: 
